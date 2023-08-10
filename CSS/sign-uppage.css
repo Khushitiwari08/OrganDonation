@@ -1,0 +1,282 @@
+.sign-uppage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+  .sign-uppage-sign-uppage {
+    width: 80%;
+    height: 1000px;
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .sign-uppage-medicalstethoscopeonwhite {
+    top: -13px;
+    left: -33px;
+    width: 1885px;
+    height: 1256px;
+    position: absolute;
+  }
+  
+  .sign-uppage-rectangle2 {
+    top: -33px;
+    left: 0px;
+    width: 760px;
+    height: 1184px;
+    position: absolute;
+  }
+  .sign-uppage-text {
+    top: 432px;
+    left: 153px;
+    color: rgba(23, 28, 81, 1);
+    width: 255px;
+    height: auto;
+    position: absolute;
+    font-size: 96px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-uppage-text02 {
+    top: 132px;
+    left: 760px;
+    color: rgba(23, 28, 81, 1);
+    width: 777px;
+    height: auto;
+    position: absolute;
+    font-size: 96px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-uppage-rectangle3 {
+    top: 243px;
+    left: 760px;
+    width: 857px;
+    height: 731px;
+    position: absolute;
+  }
+  /* .sign-uppage-group2140 {
+    top: 368px;
+    left: 827px;
+    width: 499px;
+    height: 76px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(243, 230, 236, 1);
+  }
+  .sign-uppage-group2141 {
+    top: 466px;
+    left: 827px;
+    width: 499px;
+    height: 76px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(243, 230, 236, 1);
+  } */
+  .sign-uppage-text04 {
+    top: 394px;
+    left: 884px;
+    color: rgba(131, 123, 123, 1);
+    width: 246px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-uppage-text06 {
+    top: 490px;
+    left: 884px;
+    color: rgba(131, 123, 123, 1);
+    width: 246px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-uppage-group2139 {
+    top: 568px;
+    left: 827px;
+    width: 499px;
+    height: 76px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(243, 230, 236, 1);
+  }
+  .sign-uppage-text08 {
+    top: 585px;
+    left: 883px;
+    color: rgba(131, 123, 123, 1);
+    width: 246px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
+  .sign-uppage-text10 {
+    top: 680px;
+    left: 883px;
+    width: 499px;
+    height: 76px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    width: 246px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-uppage-rectangle1614 {
+    top: 794px;
+    left: 847px;
+    width: 408px;
+    height: 79px;
+    position: absolute;
+  }
+  .sign-uppage-text12 {
+    top: 809px;
+    left: 884px;
+    color: rgba(206, 208, 230, 1);
+    width: 347px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-uppage-text14 {
+    top: 608px;
+    left: 153px;
+    color: rgba(23, 28, 81, 1);
+    width: 498px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Regular;
+    text-align: left;
+    font-family: poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-page-text{
+    top: 249px;
+    left: -153px;
+    width: 500px;
+    height: 499px;
+    position: absolute;
+  }
+  .sign-page-text1{
+    top: -207px;
+    left: 250px;
+    width: 500px;
+    height: 499px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  input[type="email"] {
+    border: 2px solid #04BBC3;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  }
+  input[type="email"]:focus {
+    border-color: #04BBC3;
+    box-shadow: 2px 2px 5px rgba(0, 0, 255, 0.2);
+  }
+  input[type="username"] {
+    border: 2px solid #04BBC3;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  }
+  input[type="username"]:focus {
+    border-color: #04BBC3;
+    box-shadow: 2px 2px 5px rgba(0, 0, 255, 0.2);
+  }
+  input[type="text"] {
+    border: 2px solid #04BBC3;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  }
+  input[type="text"]:focus {
+    border-color: #04BBC3;
+    box-shadow: 2px 2px 5px rgba(0, 0, 255, 0.2);
+  }
+  button {
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 100px;
+    background-color:#171C51;
+    color: #04BBC3;
+    padding: 20px 50px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    top: 702px;
+    left: 848px;
+    width: 408px;
+    height: 79px;
+    position: absolute;
+  }
+  
+    

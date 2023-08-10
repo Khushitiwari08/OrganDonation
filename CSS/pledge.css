@@ -1,0 +1,1039 @@
+.pledge-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pledge-mac-book-pro162 {
+  width: 100%;
+  height: 3304px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pledge-group2144 {
+  top: 151px;
+  left: 0px;
+  width: 1728px;
+  height: 248px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 0.05700000002980232);
+}
+.pledge-rectangle1617 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 215px;
+  position: absolute;
+  color:#171C51;
+}
+.pledge-text {
+  top: 93px;
+  left: 42px;
+  color: rgba(46, 44, 44, 1);
+  width: 1529px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-image2removebgpreview2 {
+  top: 0px;
+  left: 21px;
+  width: 151px;
+  height: 151px;
+  position: absolute;
+}
+.pledge-text02 {
+  top: 17px;
+  left: 215px;
+  color: rgba(0, 0, 0, 1);
+  width: 649px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Ibarra Real Nova;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-frame153 {
+  gap: 55px;
+  top: 57px;
+  left: 837px;
+  width: 843px;
+  height: 51px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pledge-frame151 {
+  gap: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.pledge-frame150 {
+  gap: 70px;
+  display: flex;
+  align-items: flex-start;
+}
+.pledge-frame149 {
+  gap: 55px;
+  display: flex;
+  align-items: flex-start;
+}
+.pledge-text04 {
+  color: rgba(23, 28, 81, 1);
+  width: 126px;
+  height: auto;
+  font-size: 40px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text06 {
+  color: rgba(23, 28, 81, 1);
+  width: 184px;
+  height: auto;
+  font-size: 40px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text08 {
+  color: rgba(23, 28, 81, 1);
+  width: 140px;
+  height: auto;
+  font-size: 40px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text10 {
+  color: rgba(23, 28, 81, 1);
+  width: 178px;
+  height: auto;
+  font-size: 40px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text12 {
+  top: 551px;
+  left: 134px;
+  color: rgba(131, 123, 123, 1);
+  width: 437px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text14 {
+  top: 758px;
+  left: 134px;
+  color: rgba(131, 123, 123, 1);
+  width: 506px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text16 {
+  top: 965px;
+  left: 136px;
+  color: rgba(131, 123, 123, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text18 {
+  top: 1379px;
+  left: 136px;
+  color: rgba(131, 123, 123, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text20 {
+  top: 1172px;
+  left: 136px;
+  color: rgba(131, 123, 123, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text22 {
+  top: 1586px;
+  left: 136px;
+  color: rgba(131, 123, 123, 1);
+  width: 383px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text24 {
+  top: 1586px;
+  left: 696px;
+  color: rgba(131, 123, 123, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text26 {
+  top: 965px;
+  left: 136px;
+  color: rgba(131, 123, 123, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text28 {
+  top: 965px;
+  left: 834px;
+  color: rgba(131, 123, 123, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text30 {
+  top: 1379px;
+  left: 834px;
+  color: rgba(131, 123, 123, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text32 {
+  top: 965px;
+  left: 485px;
+  color: rgba(131, 123, 123, 1);
+  width: 136px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text34 {
+  top: 1379px;
+  left: 485px;
+  color: rgba(131, 123, 123, 1);
+  width: 234px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text36 {
+  top: 1172px;
+  left: 491px;
+  color: rgba(131, 123, 123, 1);
+  width: 196px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-rectangle1630 {
+  top: 1969px;
+  left: 112px;
+  width: 1284px;
+  height: 950px;
+  position: absolute;
+  border-radius: 20px;
+}
+.pledge-text38 {
+  top: 2038px;
+  left: 179px;
+  color: rgba(131, 123, 123, 1);
+  width: 442px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text40 {
+  top: 2294px;
+  left: 189px;
+  color: rgba(131, 123, 123, 1);
+  width: 474px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text42 {
+  top: 2660px;
+  left: 271px;
+  color: rgba(131, 123, 123, 1);
+  width: 1025px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text44 {
+  top: 2730px;
+  left: 271px;
+  color: rgba(131, 123, 123, 1);
+  width: 1041px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.pledge-frame156 {
+  gap: 77px;
+  top: 2374px;
+  left: 189px;
+  width: 1060px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.pledge-group2145 {
+  width: 212px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text46 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-frame155 {
+  gap: 22px;
+  display: flex;
+  align-items: center;
+}
+.pledge-frame154 {
+  gap: 74px;
+  display: flex;
+  align-items: flex-start;
+}
+.pledge-group2146 {
+  width: 251px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text48 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 191px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank01 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-group2147 {
+  width: 212px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text50 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank02 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-group2148 {
+  width: 212px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text52 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank03 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-frame157 {
+  gap: 77px;
+  top: 2478px;
+  left: 189px;
+  width: 1059px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.pledge-group21461 {
+  width: 212px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text54 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank04 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-frame1551 {
+  gap: 22px;
+  display: flex;
+  align-items: center;
+}
+.pledge-frame1541 {
+  gap: 55px;
+  display: flex;
+  align-items: flex-start;
+}
+.pledge-group21462 {
+  width: 269px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text56 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank05 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-group21471 {
+  width: 212px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text58 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank06 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-group21481 {
+  width: 212px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text60 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank07 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-group21451 {
+  top: 2569px;
+  left: 189px;
+  width: 212px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pledge-text62 {
+  top: 5px;
+  left: 60px;
+  color: rgba(100, 77, 77, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-materialsymbolscheckboxoutlineblank08 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-materialsymbolscheckboxoutlineblank09 {
+  top: 2654px;
+  left: 189px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-materialsymbolscheckboxoutlineblank10 {
+  top: 2724px;
+  left: 189px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pledge-text64 {
+  top: 2817px;
+  left: 246px;
+  color: rgba(0, 0, 0, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-group2143 {
+  top: 3085px;
+  left: 0px;
+  width: 1728px;
+  height: 219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(20, 35, 58, 1);
+}
+.pledge-text66 {
+  top: 36px;
+  left: 420px;
+  color: rgba(255, 255, 255, 1);
+  width: 1064px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pledge-text68 {
+  top: 140px;
+  left: 600px;
+  color: rgba(205, 185, 185, 1);
+  width: 652px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ibarra Real Nova;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.Receiver1{
+  padding: auto;
+  margin-left: -130px;
+  padding: 10px 30px;
+ border: none;
+ border-radius: 5px;
+ cursor: pointer;
+ font-family: Poppins;
+ font-weight: 300;
+ font-size: 20px;
+ background-color:#171C51;
+color: #04BBC3;
+}
+button{
+     margin-left:-165px;
+     display: flex;
+     justify-content: space-between;
+     padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Poppins;
+    font-weight: 300;
+    font-size: 20px;
+    background-color:#171C51;
+    color: #04BBC3;
+}
+.Receiver1:hover{
+  background-color: white;
+  transition: border 0.3s ease-in-out;
+  border: 2px solid ;
+}
+button:hover{
+  background-color: white;
+  transition: border 0.3s ease-in-out;
+  border: 2px solid ;
+}
+input[type="name"]{
+ border: 2px solid #04BBC3;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+    top: 628px;
+    left: 134px;
+    width: 974px;
+    height: 78px;
+    position: absolute;}
+    
+input[class="address"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  top: 850px;
+  left: 134px;
+  width: 974px;
+  height: 78px;
+  position: absolute;
+
+}
+input[class="city"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  top: 1047px;
+  left: 140px;
+  width: 260px;
+  height: 78px;
+  position: absolute;
+
+}
+input[class="district"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  top: 1042px;
+  left: 484px;
+  width: 260px;
+  height: 78px;
+  position: absolute;
+}
+input[class="state"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  top: 1037px;
+  left: 828px;
+  width: 260px;
+  height: 78px;
+  position: absolute;
+
+}
+input[class="pin"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+top: 1249px;
+left: 127px;
+width: 260px;
+height: 78px;
+position: absolute;
+}
+input[class="Aadhar"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  top: 1698px;
+  left: 134px;
+  width: 517px;
+  height: 78px;
+  position: absolute;
+}
+input[class="blood"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+top: 1693px;
+left: 691px;
+width: 260px;
+height: 78px;
+position: absolute;}
+
+input[class="medical"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  top: 2095px;
+  left: 172px;
+  width: 922px;
+  height: 155px;
+  position: absolute;}
+
+input[class="number"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+  top: 1254px;
+  left: 484px;
+  width: 409px;
+  height: 78px;
+  position: absolute;
+}
+input[class="gender"]{
+border: 2px solid #04BBC3;
+padding: 20px;
+font-size: 20px;
+border-radius: 5px;
+box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+top: 1471px;
+left: 134px;
+width: 260px;
+height: 78px;
+position: absolute;}
+
+input[class="occupation"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+top: 1471px;
+left: 486px;
+width: 260px;
+height: 78px;
+position: absolute;}
+
+input[class="age"]{
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+top: 1471px;
+  left: 821px;
+  width: 260px;
+  height: 78px;
+  position: absolute;
+}
+
+.next{
+  font-size: 38px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  top: 2815px;
+  left:800px;
+  width: 148px;
+  height: 61px;
+  position: absolute;
+}
+  

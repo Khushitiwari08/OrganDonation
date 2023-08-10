@@ -1,0 +1,221 @@
+.login-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-page-login-page {
+  width: 100%;
+  height: 1117px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-page-doctorsstethoscopeonawhitebackground {
+  top: -13px;
+  left: -33px;
+  width: 1885px;
+  height: 1256px;
+  position: absolute;
+}
+.login-page-doctorsstethoscopeonawhitebackground1 {
+  top: -50px;
+  left: -50px;
+  width: 810px;
+  height: 1256px;
+  position: absolute;
+}
+.login-page-rectangle2 {
+  top: -33px;
+  left: 0px;
+  width: 760px;
+  height: 1184px;
+  position: absolute;
+}
+.login-page-text{
+  top: 249px;
+  left: 64px;
+  width: 500px;
+  height: 499px;
+  position: absolute;
+}
+.login-page-text1{
+  top: -207px;
+  left: 300px;
+  width: 500px;
+  height: 499px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-page-text02 {
+  top: 107px;
+  left: 765px;
+  color: rgba(23, 28, 81, 1);
+  width: 777px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-rectangle3 {
+  top: 243px;
+  left: 760px;
+  width: 857px;
+  height: 731px;
+  position: absolute;
+}
+/* .login-page-group2140 {
+  top: 445px;
+  left: 830px;
+  width: 499px;
+  height: 76px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(243, 230, 236, 1);
+}
+.login-page-group2141 {
+  top: 557px;
+  left: 830px;
+  width: 499px;
+  height: 76px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(243, 230, 236, 1);
+} */
+.login-page-text04 {
+  top: 800px;
+  left: 150px;
+  color: rgba(23, 28, 81, 1);
+  width: 498px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: left;
+  font-family: poppins;
+  font-weight: 400;
+  line-height: bold;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text06 {
+  top: 472px;
+  left: 864px;
+  color: rgba(131, 123, 123, 1);
+  width: 246px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text08 {
+  top: 578px;
+  left: 864px;
+  color: rgba(131, 123, 123, 1);
+  width: 246px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+/* .login-page-rectangle1615 {
+  top: 702px;
+  left: 848px;
+  width: 408px;
+  height: 79px;
+  position: absolute;
+} */
+.login-page-text10 {
+  top: 717px;
+  left: 975px;
+  color: rgba(206, 208, 230, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.my-button {
+  font-size: x-large;
+  margin-left: 20px;
+  margin-top: 50px;
+  background-color:#171C51;
+  color: #04BBC3;
+  padding: 20px 50px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  top: 702px;
+  left: 848px;
+  width: 408px;
+  height: 79px;
+  position: absolute;
+}
+
+
+
+
+input[type="email"] {
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0.1, 0, 0, 0.1);
+}
+
+input[type="email"]:focus {
+  border-color: #04BBC3;
+  box-shadow: 2px 2px 5px rgba(0, 0, 255, 0.2);
+}
+input[type="text"] {
+  border: 2px solid #04BBC3;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px #746C82(0.1, 0, 0, 0.1);
+}
+
+input[type="text"]:focus {
+  border-color:#04BBC3;
+  box-shadow: 2px 2px 5px #746C82(0.1, 0, 0, 0.1);
+}
